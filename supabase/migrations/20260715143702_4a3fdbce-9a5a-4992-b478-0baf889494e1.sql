@@ -1,0 +1,1 @@
+ALTER TABLE public.admin_credenciais ADD COLUMN IF NOT EXISTS link_perfil text;

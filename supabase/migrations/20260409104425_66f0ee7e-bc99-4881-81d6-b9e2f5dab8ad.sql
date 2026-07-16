@@ -1,0 +1,1 @@
+ALTER TABLE public.admin_credenciais ADD COLUMN campos_customizados jsonb DEFAULT '{}'::jsonb;
